@@ -17,19 +17,19 @@
 
 #kenzok8 packages
 
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-adguardhome
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-advancedsetting
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-clash
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-gost
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-openclash
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-passwall
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-smartdns
-git clone https://github.com/kenzok8/openwrt-packages/luci-app-ssr-plus
-git clone https://github.com/kenzok8/openwrt-packages/luci-theme-argon_new
-git clone https://github.com/kenzok8/openwrt-packages/luci-theme-atmaterial
-git clone https://github.com/kenzok8/openwrt-packages/luci-theme-ifit
-git clone https://github.com/kenzok8/openwrt-packages/luci-theme-opentomato
-git clone https://github.com/kenzok8/openwrt-packages/luci-theme-opentomcat
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-adguardhome
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-advancedsetting
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-clash
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-gost
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-openclash
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-passwall
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-smartdns
+#git clone https://github.com/kenzok8/openwrt-packages/luci-app-ssr-plus
+#git clone https://github.com/kenzok8/openwrt-packages/luci-theme-argon_new
+#git clone https://github.com/kenzok8/openwrt-packages/luci-theme-atmaterial
+#git clone https://github.com/kenzok8/openwrt-packages/luci-theme-ifit
+#git clone https://github.com/kenzok8/openwrt-packages/luci-theme-opentomato
+#git clone https://github.com/kenzok8/openwrt-packages/luci-theme-opentomcat
 
 
 
