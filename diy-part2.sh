@@ -38,6 +38,7 @@ git clone https://github.com/kenzok8/openwrt-packages/luci-app-smartdns
 git clone https://github.com/kenzok8/openwrt-packages/luci-app-ssr-plus
 git clone https://github.com/kenzok8/openwrt-packages/luci-theme-argon_new
 git clone https://github.com/kenzok8/openwrt-packages/luci-theme-atmaterial
+git clone https://github.com/kenzok8/openwrt-packages/luci-theme-ifit
 git clone https://github.com/kenzok8/openwrt-packages/luci-theme-opentomato
 git clone https://github.com/kenzok8/openwrt-packages/luci-theme-opentomcat
 git clone https://github.com/kenzok8/openwrt-packages/microsocks
