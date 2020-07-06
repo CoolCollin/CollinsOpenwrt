@@ -3,7 +3,7 @@ src-git lean https://github.com/coolsnowwolf/lede.git
 src-git lienol https://github.com/Lienol/openwrt-package
 src-git kenzok8 https://github.com/kenzok8/openwrt-packages.git
 
-src-git hello https://github.com/Lancenas/lienol-openwrt-package.git
+#src-git hello https://github.com/Lancenas/lienol-openwrt-package.git
 
 
 
@@ -18,4 +18,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-git management https://github.com/openwrt-management/packages.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git helloworld https://github.com/fw876/helloworld
+#src-git helloworld https://github.com/fw876/helloworld
