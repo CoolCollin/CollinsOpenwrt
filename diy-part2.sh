@@ -36,6 +36,15 @@
 git clone https://github.com/kenzok8/openwrt-packages.git
 
 
+cd package
+git clone https://github.com/kenzok8/small.git
+git clone https://github.com/kenzok8/litte.git
+cd ..
+
+
+
+
+
 #kenzok8 packages
 
 #git clone https://github.com/kenzok8/openwrt-packages/luci-app-adguardhome
