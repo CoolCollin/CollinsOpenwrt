@@ -36,16 +36,16 @@
 #git clone https://github.com/kenzok8/openwrt-packages.git
 
 
-cd package
+#cd package
 
-git clone https://github.com/xiaorouji/openwrt-package/lienol
+#git clone https://github.com/xiaorouji/openwrt-package/lienol
 
 #git clone https://github.com/lienol/openwrt-package
 
 ####git clone https://github.com/kenzok8/litte.git
 ####git clone https://github.com/kenzok8/small.git
 
-cd ..
+#cd ..
 
 
 
